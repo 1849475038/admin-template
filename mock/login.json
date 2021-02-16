@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "data": {
+    "user": {
+      "ID": 1,
+      "CreatedAt": "2020-12-19T16:00:24+08:00",
+      "UpdatedAt": "2020-12-19T16:00:24+08:00",
+      "uuid": "5cf8c809-ff2a-4c63-bdc8-f34e99e45249",
+      "userName": "admin",
+      "nickName": "超级管理员",
+      "headerImg": "http://qmplusimg.henrongyi.top/gva_header.jpg",
+      "authority": {
+        "CreatedAt": "2020-12-19T16:00:24+08:00",
+        "UpdatedAt": "2020-12-19T16:00:24+08:00",
+        "DeletedAt": null,
+        "authorityId": "888",
+        "authorityName": "普通用户",
+        "parentId": "0",
+        "dataAuthorityId": null,
+        "children": null,
+        "menus": null
+      },
+      "authorityId": "888"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVVUlEIjoiNWNmOGM4MDktZmYyYS00YzYzLWJkYzgtZjM0ZTk5ZTQ1MjQ5IiwiSUQiOjEsIlVzZXJuYW1lIjoiYWRtaW4iLCJOaWNrTmFtZSI6Iui2hee6p-euoeeQhuWRmCIsIkF1dGhvcml0eUlkIjoiODg4IiwiQnVmZmVyVGltZSI6ODY0MDAsImV4cCI6MTYxNDA4NDQ5MiwiaXNzIjoicW1QbHVzIiwibmJmIjoxNjEzNDc4NjkyfQ.CFZCpCVgpTCRvxlWC4SRLOnv3vRDlAuAjYIw97d0Oq8",
+    "expiresAt": 1614084492000
+  },
+  "msg": "登录成功"
+}
